@@ -532,28 +532,6 @@ CI/CD or automation starts
 | Works instantly     | Fast development    |
 
 ---
-
-# Limitations of Free ngrok
-
-Free plan may include:
-
-- Temporary URLs
-- Session limits
-- Random subdomains
-- Limited tunnels
-
-Example:
-
-Every restart may generate:
-
-```txt
-https://newrandom.ngrok-free.app
-```
-
-instead of previous URL.
-
----
-
 # Paid ngrok Features
 
 Paid plans provide:
